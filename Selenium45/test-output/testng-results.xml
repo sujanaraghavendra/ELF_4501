@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10779" started-at="2023-12-19T11:29:20 IST" finished-at="2023-12-19T11:29:31 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10779" started-at="2023-12-19T11:29:20 IST" finished-at="2023-12-19T11:29:31 IST">
+      <class name="DataProvider.login_detail_xlsx">
+        <test-method status="PASS" signature="details([Ljava.lang.String;)[pri:0, instance:DataProvider.login_detail_xlsx@5a8806ef]" name="details" duration-ms="5537" started-at="2023-12-19T11:29:21 IST" data-provider="login" finished-at="2023-12-19T11:29:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@4a183d02]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method status="PASS" signature="details([Ljava.lang.String;)[pri:0, instance:DataProvider.login_detail_xlsx@5a8806ef]" name="details" duration-ms="4415" started-at="2023-12-19T11:29:26 IST" data-provider="login" finished-at="2023-12-19T11:29:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@5d05ef57]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+      </class> <!-- DataProvider.login_detail_xlsx -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
